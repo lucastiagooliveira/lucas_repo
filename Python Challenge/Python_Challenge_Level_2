@@ -1,0 +1,3 @@
+import urllib
+
+page  = urllib.urlopen('http://www.pythonchallenge.com/pc/def/ocr' + s).read()
