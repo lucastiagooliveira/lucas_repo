@@ -1,3 +1,3 @@
 # lucastiagooliveira
 
-[Build](/lucastiagooliveira/db/Socioeconomics_Chicago/)
+[](/lucastiagooliveira/db/Socioeconomics_Chicago/)
