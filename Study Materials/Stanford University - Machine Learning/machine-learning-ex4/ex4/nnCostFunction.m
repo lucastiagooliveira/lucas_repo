@@ -61,18 +61,60 @@ Theta2_grad = zeros(size(Theta2));
 %               the regularization separately and then add them to Theta1_grad
 %               and Theta2_grad from Part 2.
 %
+temp = X;
+s = size(temp);
+s(2) = s(2) + 1;
+X = ones(s);
+X(:,2:end) = temp;
+
+a1 = X;
+
+z2 = a1*Theta1';
+a2 = sigmoid(z2);
+
+temp = a2;
+s = size(temp);
+s(2) = s(2) + 1;
+a2 = ones(s);
+a2(:,2:end) = temp;
+
+z3 = a2*Theta2';
+a3 = sigmoid(z3);
+
+y_v = (1:num_labels) == y; % 5000 x 10
+
+reg = (lambda/(2*m)) * ( sum(sum(Theta1(:,2:end).^2)) + sum(sum(Theta2(:,2:end).^2)));
+
+J = (1/m)*sum(sum((-y_v.*log(a3)) - (1-y_v).*log(1-a3))) + reg;
 
 
+delta3 = a3 - y_v;
+
+%y_v1 = (1:hidden_layer_size+1) == y;
+
+%fprintf('\nSize of Theta2: %f\n', size(Theta2));
+%fprintf('\nSize of delta3: %f\n', size(delta3));
+%fprintf('\nSize of z2: %f\n', size(sigmoidGradient(z2)));
+
+s = size(temp);
+s(2) = s(2) + 1;
+z2_1 = ones(s);
+z2_1(:,2:end) = z2;
+
+delta2 = (delta3*Theta2).*sigmoidGradient(z2_1);
+
+delta2 = delta2(:,2:end);
+%delta3 = delta3(:,2:end);
+
+reg_theta1 = (lambda/m)* [zeros(size(Theta1, 1), 1) Theta1(:,2:end)];
+reg_theta2 = (lambda/m)* [zeros(size(Theta2, 1), 1) Theta2(:,2:end)];
 
 
+Theta1_grad = (1/m)* delta2' * a1 + reg_theta1;
+Theta2_grad = (1/m)* delta3' * a2 + reg_theta2;
 
-
-
-
-
-
-
-
+%fprintf('\nSize of Theta1_grad: %f\n', size(Theta1_grad));
+%fprintf('\nSize of Theta2_grad: %f\n', size(Theta2_grad));
 
 
 
