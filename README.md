@@ -12,4 +12,4 @@
 
 [House Prices: Advanced Regression Techniques](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/house-prices-advanced-regression-techniques/house_price_regression.ipynb)
 
-[House Prices: Advanced Regression Techniques (TensorFlow)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/house-prices-advanced-regression-techniques/house_price_tesorflow.ipynb)
+[Digit Recognizer (TensorFlow)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/digit-recognizer/Digit_recognizer_keras.ipynb)
