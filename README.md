@@ -12,9 +12,9 @@
 
 ## UTIL MATERIALS
 
-[Saving CSV file in Microsoft SQL Sever using Python code:](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/db/Socioeconomics_Chicago)
+[Saving CSV file in Microsoft SQL Sever using Python code](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/db/Socioeconomics_Chicago)
 
-[Hangman game using Python:](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/Hangman_game)
+[Hangman game using Python](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/Hangman_game)
 
 ## KAGGLE COMPETITONS:
 
