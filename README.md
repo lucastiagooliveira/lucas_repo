@@ -26,11 +26,11 @@
 
 [House Prices: Advanced Regression Techniques](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/house-prices-advanced-regression-techniques/house_price_regression.ipynb)
 
-## PERSONAL PROJECTS:
-
 [House Prices: Advanced Regression Techniques (TensorFlow)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/house-prices-advanced-regression-techniques/house_price_tesorflow.ipynb)
 
 [Digit Recognizer (TensorFlow - Keras)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/digit-recognizer/Digit_recognizer_keras.ipynb)
+
+## PERSONAL PROJECTS:
 
 [Analyzing Customer Churn in Telecom Company (Logistic Regression)](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-cancelamento_regr_logistica.ipynb)
 
