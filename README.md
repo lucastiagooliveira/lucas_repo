@@ -27,7 +27,7 @@
 
 [Java APP to consume from Kafka](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/KafkaConsumerApp.java)
 
-[Java APP to produce mensagens to Kafka](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/KafkaProducerApp.java)
+[Java APP to produce messages to Kafka](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/KafkaProducerApp.java)
 
 ## KAGGLE COMPETITONS:
 
