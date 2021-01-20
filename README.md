@@ -1,6 +1,6 @@
 # REPOSITORY CONTENT
 
-## MATERIALS OF COURSES DONE
+## MATERIALS OF COURSES
 
 [SQL and Spark DataFrames using Python](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/Study%20Materials/Ex_Files_Spark_SQL_DataFrames/Exercise%20Files)
 
@@ -9,8 +9,6 @@
 [Stanford University - Machine Learning](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/Study%20Materials/Stanford%20University%20-%20Machine%20Learning)
 
 [TensorFlow 2.0](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/Study%20Materials/freeCodeCamp.org/Tensor%202.0%20Complete%20Course)
-
-## MATERIALS OF COURSES IN PROGRESS
 
 [Deep Learning - MIT](https://github.com/lucastiagooliveira/lucas_repo/tree/master/Study%20Materials/Deep%20Learning%20-%20MIT)
 
