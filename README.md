@@ -24,6 +24,10 @@
 
 [Calculate Information Value e WOE in Python](https://lucastiagooliveira.github.io/datascience/iv/woe/python/2020/12/15/iv_woe.html)
 
+[Java APP to consume from Kafka](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/KafkaConsumerApp.java)
+
+[Java APP to produce mensagens to Kafka](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/KafkaProducerApp.java)
+
 ## KAGGLE COMPETITONS:
 
 [Titanic Disaster - Machine Learning](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/Titanic%20-%20Machine%20Learning%20disaster/Notebook/titanic_test_v2.ipynb)
