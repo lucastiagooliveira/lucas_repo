@@ -18,6 +18,10 @@
 
 [Hangman game using Python](https://github.com/lucastiagooliveira/lucastiagooliveira/tree/master/Hangman_game)
 
+[Linear Regression - Pytorch](https://lucastiagooliveira.github.io/datascience/pytorch/regressaolinear/2020/08/31/pytorch_regression.html)
+
+[Transforming .jpg image in .csv file](https://lucastiagooliveira.github.io/datascience/csv/imagem/2020/09/01/transform-csv-jpeg.html)
+
 ## KAGGLE COMPETITONS:
 
 [Titanic Disaster - Machine Learning](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/Titanic%20-%20Machine%20Learning%20disaster/Notebook/titanic_test_v2.ipynb)
