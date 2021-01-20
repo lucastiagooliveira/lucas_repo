@@ -38,3 +38,5 @@
 [COVID-19 Data Visualization](https://lucastiagooliveira.github.io/datascience/visualia%C3%A7%C3%A3o/covid19/altair/2020/09/11/covid19.html)
 
 [Fraud Detection - Credit Card](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/credcard_transaction.ipynb)
+
+[Credit Segmentation](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-business_case_card_cred.ipynb)
