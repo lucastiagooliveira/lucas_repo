@@ -30,4 +30,6 @@
 
 [Digit Recognizer (TensorFlow - Keras)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/digit-recognizer/Digit_recognizer_keras.ipynb)
 
-[Analyzing Customer Churn Telecom Company (Logistic Regression)](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-cancelamento_regr_logistica.ipynb)
+[Analyzing Customer Churn in Telecom Company (Logistic Regression)](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-cancelamento_regr_logistica.ipynb)
+
+
