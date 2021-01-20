@@ -1,3 +1,9 @@
+# CONTACT CHANNELS
+
+[LinkedIn](https://www.linkedin.com/in/lucas-tiago-7a4a1362/)
+
+*Email:* lucastiagooliveira@gmail.com
+
 # REPOSITORY CONTENT
 
 ## MATERIALS OF COURSES
