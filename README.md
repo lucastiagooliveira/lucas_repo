@@ -22,6 +22,8 @@
 
 [Transforming .jpg image in .csv file](https://lucastiagooliveira.github.io/datascience/csv/imagem/2020/09/01/transform-csv-jpeg.html)
 
+[Calculate Information Value e WOE in Python](https://lucastiagooliveira.github.io/datascience/iv/woe/python/2020/12/15/iv_woe.html)
+
 ## KAGGLE COMPETITONS:
 
 [Titanic Disaster - Machine Learning](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/Titanic%20-%20Machine%20Learning%20disaster/Notebook/titanic_test_v2.ipynb)
