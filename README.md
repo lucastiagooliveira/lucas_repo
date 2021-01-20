@@ -39,4 +39,4 @@
 
 [Fraud Detection - Credit Card](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/credcard_transaction.ipynb)
 
-[Credit Segmentation](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-business_case_card_cred.ipynb)
+[Credit Segmentation (Clustering)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-business_case_card_cred.ipynb)
