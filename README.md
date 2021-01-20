@@ -1,9 +1,3 @@
-# CONTACT CHANNELS
-
-[LinkedIn](https://www.linkedin.com/in/lucas-tiago-7a4a1362/)
-
-**Email:** lucastiagooliveira@gmail.com
-
 # REPOSITORY CONTENT
 
 ## MATERIALS OF COURSES
@@ -58,3 +52,10 @@
 [Credit Segmentation (Clustering)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-business_case_card_cred.ipynb)
 
 [Business Case: Consortium (Classification)](https://lucastiagooliveira.github.io/datascience/logistica/classificacao/consorcio/2020/12/14/Case_Consorcio_logistic.html)
+
+# CONTACT CHANNELS
+
+[LinkedIn](https://www.linkedin.com/in/lucas-tiago-7a4a1362/)
+
+**Email:** lucastiagooliveira@gmail.com
+
