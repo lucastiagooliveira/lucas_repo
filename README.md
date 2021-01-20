@@ -40,3 +40,5 @@
 [Fraud Detection - Credit Card](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/credcard_transaction.ipynb)
 
 [Credit Segmentation (Clustering)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-business_case_card_cred.ipynb)
+
+[Business Case: Consortium (Classification)](https://lucastiagooliveira.github.io/datascience/logistica/classificacao/consorcio/2020/12/14/Case_Consorcio_logistic.html)
