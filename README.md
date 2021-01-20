@@ -28,6 +28,9 @@
 
 [Digit Recognizer (TensorFlow - Keras)](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/digit-recognizer/Digit_recognizer_keras.ipynb)
 
+[Digit Recognizer (FastAI)](https://lucastiagooliveira.github.io/datascience/mnist/fastai/2020/09/05/fastai_MNIST.html)
+
+
 ## PERSONAL PROJECTS:
 
 [Analyzing Customer Churn in Telecom Company (Logistic Regression)](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-cancelamento_regr_logistica.ipynb)
