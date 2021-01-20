@@ -32,4 +32,4 @@
 
 [Analyzing Customer Churn in Telecom Company (Logistic Regression)](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/2020-12-15-cancelamento_regr_logistica.ipynb)
 
-
+[COVID-19 Data Visualization](https://lucastiagooliveira.github.io/datascience/visualia%C3%A7%C3%A3o/covid19/altair/2020/09/11/covid19.html)
