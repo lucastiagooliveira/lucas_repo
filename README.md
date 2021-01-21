@@ -29,6 +29,8 @@
 
 [Java APP to produce messages to Kafka](https://github.com/lucastiagooliveira/lucas_repo/blob/master/Projects/KafkaProducerApp.java)
 
+[Data Streamming with Kafka and Streamsets](https://github.com/lucastiagooliveira/lucas_repo/tree/master/Study%20Materials/Eng.%20Dados/Streamsets) 
+
 ## KAGGLE COMPETITONS:
 
 [Titanic Disaster - Machine Learning](https://nbviewer.jupyter.org/github/lucastiagooliveira/lucastiagooliveira/blob/master/Kaggle/Titanic%20-%20Machine%20Learning%20disaster/Notebook/titanic_test_v2.ipynb)
