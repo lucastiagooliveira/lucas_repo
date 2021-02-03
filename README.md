@@ -56,6 +56,8 @@
 
 [Business Case: Consortium (Classification)](https://lucastiagooliveira.github.io/datascience/logistica/classificacao/consorcio/2020/12/14/Case_Consorcio_logistic.html)
 
+[Heterogeneous Relational Database Replication (Oracle GoldenGate)](https://lucastiagooliveira.github.io/datascience/replica%C3%A7%C3%A3o/banco%20de%20dados/2021/02/02/_02_03_replication_rdb_oracle_mysql.html)
+
 # CONTACT CHANNELS
 
 [LinkedIn](https://www.linkedin.com/in/lucas-tiago-7a4a1362/)
